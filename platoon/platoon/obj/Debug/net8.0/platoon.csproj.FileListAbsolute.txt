@@ -1,0 +1,17 @@
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\platoon.exe
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\platoon.deps.json
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\platoon.runtimeconfig.json
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\platoon.pdb
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.AssemblyInfo.cs
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.csproj.Up2Date
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\refint\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.pdb
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\platoon.genruntimeconfig.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net8.0\ref\platoon.dll

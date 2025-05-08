@@ -1,0 +1,51 @@
+E:\learning\platoon\platoon\bin\Debug\net7.0\platoon.exe
+E:\learning\platoon\platoon\bin\Debug\net7.0\platoon.deps.json
+E:\learning\platoon\platoon\bin\Debug\net7.0\platoon.runtimeconfig.json
+E:\learning\platoon\platoon\bin\Debug\net7.0\platoon.dll
+E:\learning\platoon\platoon\bin\Debug\net7.0\platoon.pdb
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfoInputs.cache
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfo.cs
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.csproj.CoreCompileInputs.cache
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.dll
+E:\learning\platoon\platoon\obj\Debug\net7.0\refint\platoon.dll
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.pdb
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.genruntimeconfig.cache
+E:\learning\platoon\platoon\obj\Debug\net7.0\ref\platoon.dll
+E:\learning\platoon\platoon\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.csproj.AssemblyReference.cache
+E:\learning\platoon\platoon\obj\Debug\net7.0\platoon.csproj.CopyComplete
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfo.cs
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\refint\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.pdb
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\platoon.exe
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\platoon.deps.json
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\platoon.runtimeconfig.json
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\platoon.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\platoon.pdb
+C:\Users\dell\Downloads\platoon\platoon\platoon\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.csproj.Up2Date
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\platoon.genruntimeconfig.cache
+C:\Users\dell\Downloads\platoon\platoon\platoon\obj\Debug\net7.0\ref\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.csproj.AssemblyReference.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfoInputs.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.AssemblyInfo.cs
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.csproj.CoreCompileInputs.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\refint\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.pdb
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\platoon.exe
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\platoon.deps.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\platoon.runtimeconfig.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\platoon.pdb
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.csproj.CopyComplete
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\platoon.genruntimeconfig.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Debug\net7.0\ref\platoon.dll

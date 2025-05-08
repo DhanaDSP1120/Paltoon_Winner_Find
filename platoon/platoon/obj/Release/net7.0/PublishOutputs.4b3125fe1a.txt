@@ -1,0 +1,6 @@
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\platoon.exe
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\platoon.deps.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\platoon.runtimeconfig.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\platoon.pdb
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\publish\Newtonsoft.Json.dll

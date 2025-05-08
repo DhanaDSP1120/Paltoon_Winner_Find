@@ -1,0 +1,17 @@
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\platoon.exe
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\platoon.deps.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\platoon.runtimeconfig.json
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\platoon.pdb
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.csproj.AssemblyReference.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.AssemblyInfoInputs.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.AssemblyInfo.cs
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.csproj.CoreCompileInputs.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.csproj.CopyComplete
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\refint\platoon.dll
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.pdb
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\platoon.genruntimeconfig.cache
+C:\Users\DhanasekarP\Downloads\platoon latest\platoon\platoon\obj\Release\net7.0\ref\platoon.dll
